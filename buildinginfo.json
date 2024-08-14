@@ -1,7 +1,7 @@
 [
     {
         "className": "NormalHouse",
-        "name": "House",
+        "name": "Rumah",
         "description": "Your citizens will certainly appreciate a roof above their heads.",
         "food": 0,
         "wood": 4,
@@ -16,7 +16,7 @@
     },
     {
         "className": "AlienHouse",
-        "name": "Alien House",
+        "name": "Rumah Alien",
         "description": "Five people can live in this strange home full of otherworldly technology.",
         "food": 10,
         "wood": 5,
@@ -31,7 +31,7 @@
     },
     {
         "className": "ModernRusticHome",
-        "name": "Modern Rustic Home",
+        "name": "Rumah Pedesaan Modern",
         "description": "This rustic-looking house makes people think of Earth. The housing quality is increased by 15 if there are at least three other modern rustic homes or parks next to it.",
         "food": 7,
         "wood": 10,
@@ -51,7 +51,7 @@
     },
     {
         "className": "MechanicalHouse",
-        "name": "Mechanical House",
+        "name": "Rumah Mekanik",
         "description": "The mechanics and heating of this house need a Machine Parts Factory to function. The housing quality is increased by 50 if there is one next to it.",
         "food": 0,
         "wood": 10,
@@ -75,7 +75,7 @@
     },
     {
         "className": "SpaciousHouse",
-        "name": "Spacious House",
+        "name": "Rumah yang Luas",
         "description": "A modern house with lots of space.",
         "food": 0,
         "wood": 4,
@@ -92,7 +92,7 @@
     },
     {
         "className": "CuttingEdgeHome",
-        "name": "Cutting-Edge House",
+        "name": "Rumah Canggih",
         "description": "A hypermodern home filled with technology.",
         "food": 0,
         "wood": 2,
@@ -110,7 +110,7 @@
     },
     {
         "className": "ParkPod",
-        "name": "Park Pod",
+        "name": "Pod Taman",
         "description": "A home in the middle of a park.",
         "food": 0,
         "wood": 50,
@@ -128,7 +128,7 @@
     },
     {
         "className": "TinkerersHome",
-        "name": "Tinkerers' House",
+        "name": "Rumah Tukang Reparasi",
         "description": "This house is designed for makers and inventors. Residents earn extra education.",
         "food": 0,
         "wood": 100,
@@ -145,7 +145,7 @@
     },
     {
         "className": "FarmHouse",
-        "name": "Community House",
+        "name": "Rumah Komunitas",
         "description": "This house gives a strong sense of community. Produces a small amount of food, wood or stone for each resident. Most upgrades don't apply to this production.",
         "food": 100,
         "wood": 100,
@@ -162,7 +162,7 @@
     },
     {
         "className": "BlossomHut",
-        "name": "Blossum Hut",
+        "name": "Pondok Bunga",
         "description": "Residents of this hut will really flourish!",
         "food": 100,
         "wood": 200,
@@ -180,7 +180,7 @@
     },
     {
         "className": "Villa",
-        "name": "Villa",
+        "name": "Vila",
         "description": "A luxurious, modern villa complete with a private teleporter.",
         "food": 1000,
         "wood": 1000,
@@ -197,7 +197,7 @@
     },
     {
         "className": "FlowerPenthouse",
-        "name": "Flower Penthouse",
+        "name": "Penthouse Bunga",
         "description": "A lavish rooftop house. It makes residents live longer. It also comes with a private teleporter.",
         "food": 2000,
         "wood": 3000,
@@ -214,7 +214,7 @@
     },
     {
         "className": "LandingSite",
-        "name": "Landing Pad",
+        "name": "landasan pendaratan",
         "description": "The landing pad works like a bus stop in space. People can take a space ship from here to other landing pads. Can only be placed on the ground or on a rooftop.",
         "food": 0,
         "wood": 5,
@@ -227,7 +227,7 @@
     },
     {
         "className": "LandedExplorationShip",
-        "name": "Landed Exploration Ship",
+        "name": "Kapal Eksplorasi Mendarat",
         "description": "Living in this exploration ship may not be very comfortable, but it's certainly very adventurous! Can only be placed on the ground or on a rooftop.",
         "food": 0,
         "wood": 5,
@@ -245,7 +245,7 @@
     },
     {
         "className": "HyperElevator",
-        "name": "Hyper Elevator",
+        "name": "Lift Hiper",
         "description": "Allows citizens to quickly go to elevators above and below in the same contiguous building. There may be other buildings in between the elevators.",
         "food": 0,
         "wood": 0,
@@ -274,7 +274,7 @@
     },
     {
         "className": "WoodcuttingCentre",
-        "name": "Woodcutting Center",
+        "name": "Pusat Pemotongan Kayu",
         "description": "Woodcutters retrieve their materials here, then go to the nearest forest to cut wood.",
         "food": 0,
         "wood": 0,
@@ -288,7 +288,7 @@
     },
     {
         "className": "StoneMine",
-        "name": "Stone Mine",
+        "name": "Tambang Batu",
         "description": "Stone miners retrieve their materials here, then go to the nearest rock to mine stone.",
         "food": 0,
         "wood": 4,
@@ -302,7 +302,7 @@
     },
     {
         "className": "IndoorFarm",
-        "name": "Indoor Farm",
+        "name": "Pertanian Dalam Ruangan",
         "description": "Crops can be grown here to produce food.",
         "food": 0,
         "wood": 6,
@@ -317,7 +317,7 @@
     },
     {
         "className": "ExplorationCentre",
-        "name": "Exploration Center",
+        "name": "Pusat Eksplorasi",
         "description": "Explore alien ruins to gain knowledge, resources and special bonuses. When all ruins have been explored, workers will investigate their findings to gain more knowledge.",
         "food": 0,
         "wood": 8,
@@ -331,7 +331,7 @@
     },
     {
         "className": "MachinePartsFactory",
-        "name": "Machine Parts Factory",
+        "name": "Pabrik Suku Cadang Mesin",
         "description": "Produces machine parts from stone. Three stone is needed to make one machine part.",
         "food": 0,
         "wood": 10,
@@ -345,7 +345,7 @@
     },
     {
         "className": "Laboratory",
-        "name": "Lab",
+        "name": "Laboratorium",
         "description": "Scientists gather knowledge here. Also has upgrades boosting adjacent farms and tree plantations.",
         "food": 0,
         "wood": 10,
@@ -365,7 +365,7 @@
     },
     {
         "className": "TreePlantation",
-        "name": "Tree Plantation",
+        "name": "Perkebunan Pohon",
         "description": "These trees are kept in an optimal environment and regrow faster than trees on the world surface. Woodcutters from a Woodcutting Center can help cut them down.",
         "food": 0,
         "wood": 0,
@@ -380,7 +380,7 @@
     },
     {
         "className": "StoneTeleporter",
-        "name": "Rock Teleporter",
+        "name": "Teleporter Batu",
         "description": "Teleports meteoroids to your city. Miners from Stone Mines can then gather stone from them.",
         "food": 0,
         "wood": 30,
@@ -395,7 +395,7 @@
     },
     {
         "className": "RefinedMetalFactory",
-        "name": "Refined Metals Factory",
+        "name": "Pabrik Logam Halus",
         "description": "Produces refined metals from stone. Five stone is needed to make one unit of refined metal.",
         "food": 0,
         "wood": 30,
@@ -409,7 +409,7 @@
     },
     {
         "className": "ComputerChipFactory",
-        "name": "Computer Chip Factory",
+        "name": "Pabrik Chip Komputer",
         "description": "Produces computer chips from refined metals. Seven units of refined metals are needed to make one computer chip.!unlocks",
         "food": 0,
         "wood": 0,
@@ -424,7 +424,7 @@
     },
     {
         "className": "EcoFarm",
-        "name": "Eco Farm",
+        "name": "Pertanian Ekologi",
         "description": "Produces food sustainably. Also generates a small amount of nature entertainment happiness.",
         "food": 0,
         "wood": 10,
@@ -440,7 +440,7 @@
     },
     {
         "className": "FarmByProductProcessor",
-        "name": "Farm By-Product Processor",
+        "name": "Peternakan Oleh-Product Processor",
         "description": "Produces wood for each adjacent farm. Each farm only produces enough by-products for one By-Product Processor.",
         "food": 0,
         "wood": 200,
@@ -461,7 +461,7 @@
     },
     {
         "className": "ExperimentationLab",
-        "name": "Experimentation Lab",
+        "name": "Laboratorium Eksperimen",
         "description": "Scientists experiment with machine parts here. You earn five knowledge for every machine part used. This knowledge production is faster than with normal labs.\nRefined Metal Factories above and below this building work faster and use 10% less stone per unit of refined metal.",
         "food": 0,
         "wood": 0,
@@ -484,7 +484,7 @@
     },
     {
         "className": "CacaoFarm",
-        "name": "Cacao Farm",
+        "name": "Perkebunan Kakao",
         "description": "Cacao is grown here. It can be used directly as food or to make chocolate.",
         "food": 0,
         "wood": 20,
@@ -500,7 +500,7 @@
     },
     {
         "className": "ChocolateFactory",
-        "name": "Chocolate Factory",
+        "name": "Pabrik Coklat",
         "description": "This factory uses cacao to make chocolate.",
         "food": 0,
         "wood": 30,
@@ -516,7 +516,7 @@
     },
     {
         "className": "School",
-        "name": "School",
+        "name": "Sekolah",
         "description": "Educates children, improving how effective they'll be at some jobs later.",
         "food": 0,
         "wood": 20,
@@ -530,7 +530,7 @@
     },
     {
         "className": "Library",
-        "name": "Library",
+        "name": "Perpustakaan",
         "description": "Improves the education of visitors of all ages.",
         "food": 0,
         "wood": 20,
@@ -544,7 +544,7 @@
     },
     {
         "className": "HerbGarden",
-        "name": "Herb Garden",
+        "name": "Kebun Herbal",
         "description": "Herbs and spices are grown here. They make food taste better, reducing the amount of food people need. Also has an extra effect depending on the herb type.",
         "food": 0,
         "wood": 20,
@@ -560,7 +560,7 @@
     },
     {
         "className": "MedicalClinic",
-        "name": "Medical Clinic",
+        "name": "Klinik Medis",
         "description": "Helps people live longer and better.",
         "food": 0,
         "wood": 10,
@@ -590,7 +590,7 @@
     },
     {
         "className": "Restaurant",
-        "name": "Restaurant",
+        "name": "Restoran",
         "description": "A cozy place with nice food.",
         "food": 10,
         "wood": 30,
@@ -605,7 +605,7 @@
     },
     {
         "className": "FactoryPub",
-        "name": "Factory Pub",
+        "name": "Pabrik Pub",
         "description": "A charming little pub that doubles up as a refined metals factory.\nIt can't be boosted by Experimentation Labs, though.",
         "food": 0,
         "wood": 200,
@@ -620,7 +620,7 @@
     },
     {
         "className": "BlossomRestaurant",
-        "name": "Blossom Restaurant",
+        "name": "Restoran Blossom",
         "description": "Dine under the beautiful tree blossom! If you build multiple restaurants on top of each other, people can sit on tree branches.",
         "food": 500,
         "wood": 500,
@@ -634,7 +634,7 @@
     },
     {
         "className": "Park",
-        "name": "Park",
+        "name": "Taman",
         "description": "A nice place to relax.",
         "food": 0,
         "wood": 20,
@@ -648,7 +648,7 @@
     },
     {
         "className": "BotanicalGardens",
-        "name": "Botanical Gardens",
+        "name": "Kebun Raya",
         "description": "A nice garden full of exotic plants.",
         "food": 0,
         "wood": 25,
@@ -663,7 +663,7 @@
     },
     {
         "className": "Aquarium",
-        "name": "Aquarium",
+        "name": "Akuarium",
         "description": "Dive in and swim with the fish!",
         "food": 0,
         "wood": 0,
@@ -674,12 +674,12 @@
         "unlockedByDefault": false,
         "specialInfo": [],
         "buttonBack": "spr_botanicalgardens_buttonback",
-        "showUnlockHint": "(it is not possible to unlock this building right now)",
+        "showUnlockHint": "(tidak mungkin untuk membuka kunci gedung ini saat ini)",
         "notUnlockedWithAll": true
     },
     {
         "className": "NightClub",
-        "name": "Nightclub",
+        "name": "Klub malam",
         "description": "Some people will have a lot of fun in this nightclub.",
         "food": 0,
         "wood": 20,
@@ -710,7 +710,7 @@
     },
     {
         "className": "ModernArtMuseum",
-        "name": "Modern Art Museum",
+        "name": "Museum Seni Modern",
         "description": "Abstract art by upcoming artists.",
         "food": 0,
         "wood": 40,
